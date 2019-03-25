@@ -1,0 +1,11 @@
+{
+	"title": "Random's Mechanical DarkRP HUD",
+	"type": "ServerContent",
+	"tags": ["roleplay", "fun"],
+	"ignore": [
+		"*.psd",
+		"*.vcproj",
+		"*.svn*",
+		"*.exe"
+	]
+}
